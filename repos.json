@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
+      "repo": "https://bgithub.xyz/emby1113/AD_Client",
+      "branch": "master",
       "device": "odin"
     },
     "withKernelSU": true,
