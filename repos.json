@@ -1,6 +1,6 @@
 [  {
     "kernelSource": {
-      "name": "2222",
+      "name": "AD_Client",
       "repo": "https://bgithub.xyz/emby1113/AD_Client",
       "branch": "master",
       "device": "odin"
