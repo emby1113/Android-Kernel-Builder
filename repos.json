@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://bgithub.xyz/emby1113/AD_Client",
-      "branch": "app",
+      "repo": "https://bgithub.xyz/emby1113/AD_Client/app",
+      "branch": "master",
       "device": "odin"
     },
     "withKernelSU": true,
